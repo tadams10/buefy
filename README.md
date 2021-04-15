@@ -11,6 +11,8 @@
     <a href="https://buefy.org"><img src="https://img.shields.io/badge/code_style-buefy-7957d5.svg?style=flat-square" /></a>
 </p>
 
+> This is a fork of Buefy, the purpose was to add event listeners to the table component. This is not meant for public use.
+
 > Buefy is a lightweight library of responsive UI components for [Vue.js](https://vuejs.org/) based on [Bulma](http://bulma.io/) framework and design.
 
 ## Features

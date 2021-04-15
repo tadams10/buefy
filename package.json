@@ -1,11 +1,11 @@
 {
-  "name": "buefy",
+  "name": "buefy-tadams",
   "version": "0.9.5",
   "homepage": "https://buefy.org",
   "description": "Lightweight UI components for Vue.js based on Bulma",
-  "author": "Rafael Beraldo <rafael.pimpa@gmail.com>",
+  "author": "Rafael Beraldo <rafael.pimpa@gmail.com> - forked by Tadams",
   "maintainers": [
-    "Walter Tommasi <tommsi20@gmail.com>"
+    "Walter Tommasi <tommsi20@gmail.com> - forked by tadams9020@gmail.com"
   ],
   "license": "MIT",
   "main": "dist/cjs/index.js",
